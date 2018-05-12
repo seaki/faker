@@ -7,6 +7,8 @@ Available Locale: ja, en(limited), en-KR(wip), ko(wip)
 ```ruby
 Faker::PrettyRhythm.character #=> "Harune Aira"
 
+Faker::PrettyRhythm.unit #=> "PURETTY"
+
 Faker::PrettyRhythm.title #=> "PrettyRhythm Rainbow Live"
 
 Faker::PrettyRhythm.location #=> "Para-juku"
