@@ -1,0 +1,21 @@
+en:
+  faker:
+    prettyrhythm:
+      characters:
+        auroradream:
+          - "Harune Aira"
+          - "Amamiya Rizumu"
+          - "Takamine Mion"
+          - "Toudou Kanon" # TODO スペル調べる
+        dearmyfuture:
+          - "Ageha Mia"
+          - "Miyama Reina"
+          - "Shijimi Karin"
+          - "Ooruri Ayami"
+      locations:
+        common:
+          - "Prism Stone Shop"
+        pripara:
+          - "Para-juku"
+          - "Papara-juku"
+          - "CelePara" # TODO USでのスペル調べる
