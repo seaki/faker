@@ -5,7 +5,7 @@ This class supports PrettyRhythm series（including KING OF PRISM spin-off), Pri
 Available Locale: ja, en(limited), en-KR(wip), ko(wip)
 
 ```ruby
-Faker::PrettyRhythm.character #=> "Aira Harune"
+Faker::PrettyRhythm.character #=> "Harune Aira"
 
 Faker::PrettyRhythm.title #=> "PrettyRhythm Rainbow Live"
 
